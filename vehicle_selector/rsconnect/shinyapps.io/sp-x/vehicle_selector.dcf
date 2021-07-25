@@ -1,0 +1,11 @@
+name: vehicle_selector
+title:
+username:
+account: sp-x
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4374083
+bundleId: 4808398
+url: https://sp-x.shinyapps.io/vehicle_selector/
+when: 1626012861.5316
+lastSyncTime: 1626012861.5316

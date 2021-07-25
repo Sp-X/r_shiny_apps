@@ -1,0 +1,13 @@
+name: time_series_app
+title: time_series_app
+username:
+account: sp-x
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4421259
+bundleId: 4854529
+url: https://sp-x.shinyapps.io/time_series_app/
+when: 1627232260.10665
+lastSyncTime: 1627232260.10665
+asMultiple: FALSE
+asStatic: FALSE
